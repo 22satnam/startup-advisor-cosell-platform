@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/startup-advisor-cosell-platform.png"
+  <img src="./startup-advisor-cosell-platform.png"
        alt="Startup Intelligence and Advisor Platform"
        width="720" />
 </p>
